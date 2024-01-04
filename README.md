@@ -21,6 +21,6 @@ In our Java-based application, we used JavaFx for our front-end development. We 
 
 ### Assessment Brief
 
-Here is the link for the project assessment link CA Exercise 2 2023.pdf
+Here is the link for the project assessment link | https://github.com/Ayyvah/DSA-CA2-Retro-Game-System/blob/62fffffaf16a9c0955f38bd28e9e60313c2a9fd6/CA%20Exercise%202%202023.pdf |
 
 
