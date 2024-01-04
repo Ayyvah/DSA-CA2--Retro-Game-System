@@ -1,4 +1,5 @@
 ## About the Project
+This project was developed by Ava Neary and Fionn Reilly.
 
 The Retro Video Games Information System is a Java-based application developed for our Data Structures and Algorithms 1 assessment in our second year of college. This project marks our first team-based assignment and GitHub project.
 
