@@ -20,6 +20,6 @@ In our Java-based application, we used JavaFx for our front-end development. We 
 
 ### Assessment Brief
 
-Attatched is the assessment brief for the application 
+Here is the link for the project assessment link CA Exercise 2 2023.pdf
 
 
