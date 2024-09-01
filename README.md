@@ -10,6 +10,13 @@ Notably, we ensured the project was developed in respect of the brief by impleme
 
 The primary goal of this project was to design and implement a robust system for storing, retrieving, and presenting information about retro video games and the machines they ran on. Within the scope of our Data Structures and Algorithms course, we were tasked with not only demonstrating our knowledge of key data structures but also showcasing our ability to collaborate effectively.
 
+## GUI Interface
+![Dashboard](src/main/resources/Game1.png)
+
+![Dashboard](src/main/resources/Game2.png)
+
+
+
 ### Team Collaboration
 This project wasn't just a display of individual skills but a collaborative effort between Fionn and I. Working together and leveraging our strengths allowed us to efficiently navigate through the development process, ensuring the sucess of the project.
 
